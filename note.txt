@@ -2,8 +2,18 @@ g++ { file } -std=c++11
 
 ./a.out
 
+Data structure
+0. array
+1. link list  Search/Insertion/Deletion
+2. stach & queue
+3. dictionary
+4. binary tree
+
+
 Sorting
 1. insertion sort
 2. selection sort
 3. quick sort
 
+Search
+1. binary Search
