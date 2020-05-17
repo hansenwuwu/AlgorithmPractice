@@ -7,7 +7,9 @@ Data structure
 1. link list  Search/Insertion/Deletion
 2. stach & queue
 3. dictionary
-4. binary tree
+4. binary tree Search/Delete
+    - red black tree is for balance bst
+5. 
 
 
 Sorting
@@ -17,3 +19,7 @@ Sorting
 
 Search
 1. binary Search
+
+LeetCode
+1. Trie
+2. Maximum Subarray Problem (Kadane's Algorithm) (DP)
