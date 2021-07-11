@@ -1,7 +1,13 @@
 g++ { file } -std=c++11
+g++ a.cpp -std=c++11
+g++ -std=c++17 a.cpp 
+g++ -std=c++17 dd.cpp
+g++ -std=c++17 mergesort.cpp 
 
 ./a.out
 
+********** 119 convex hull
+ 
 Data structure
 0. array
 1. link list  Search/Insertion/Deletion
@@ -9,10 +15,11 @@ Data structure
 3. dictionary
 4. binary tree Search/Delete
     - red black tree is for balance bst
-5. 
+5. bst
+6. priority queue
 
 
-Sorting
+********** Sorting **********
 1. insertion sort
 2. selection sort
 3. quick sort

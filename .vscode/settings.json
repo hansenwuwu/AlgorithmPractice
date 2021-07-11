@@ -3,6 +3,11 @@
         "vector": "cpp",
         "iostream": "cpp",
         "string": "cpp",
-        "iosfwd": "cpp"
+        "iosfwd": "cpp",
+        "algorithm": "cpp",
+        "utility": "cpp",
+        "ostream": "cpp",
+        "cstring": "cpp",
+        "unordered_set": "cpp"
     }
 }
